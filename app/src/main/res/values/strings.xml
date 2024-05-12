@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Notes SQLite</string>
+    <string name="add_task">add_task</string>
+</resources>
